@@ -5,9 +5,9 @@ use Twilio\Jwt\AccessToken;
 use Twilio\Jwt\Grants\VideoGrant;
 
 // Required for all Twilio access tokens
-$twilioAccountSid = <YOUR ACCOUNT SID>;
-$twilioApiKey = <YOUR API KEY>;
-$twilioApiSecret = <YOUR API SECRET>;
+$twilioAccountSid = 'AC145919653f545cad5e81f4389e993eaa';
+$twilioApiKey = 'SK6902ee3f36b2342a2268088b8a83755e';
+$twilioApiSecret = 'IwdJipYiAFexkh4BqR5ZoShRIF3HweE2';
 
 // A unique identifier for this user
 $identity = "alice";
